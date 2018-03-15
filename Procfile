@@ -1,1 +1,1 @@
-web: ./setup.py
+web: jupyterhub
