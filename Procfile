@@ -1,1 +1,1 @@
-web: jupyterhub --ip=0.0.0.0
+web: setup.py
