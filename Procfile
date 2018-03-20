@@ -1,1 +1,1 @@
-web: jupyterhub
+web: jupyter notebook
