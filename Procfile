@@ -1,1 +1,1 @@
-web:  ~/.local/bin/jupyter-notebook
+web: jupyter notebook
